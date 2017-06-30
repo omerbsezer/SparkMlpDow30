@@ -13,3 +13,4 @@ https://www.researchgate.net/publication/316848946_An_Artificial_Neural_Network-
 ACM Link:
 http://dl.acm.org/citation.cfm?id=3077294
 
+TA4J: https://github.com/mdeverdelhan/ta4j
