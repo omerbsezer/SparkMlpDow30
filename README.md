@@ -18,6 +18,7 @@ _**Cite as:**_
 
 **Bibtex:**
 
+```
 @inproceedings{sezer2017artificial,
   title={An Artificial Neural Network-based Stock Trading System Using Technical Analysis and Big Data Framework},
   author={Sezer, Omer Berat and Ozbayoglu, A Murat and Dogdu, Erdogan},
@@ -26,6 +27,7 @@ _**Cite as:**_
   year={2017},
   organization={ACM}
 }
+```
 
 **MLA:**
 
