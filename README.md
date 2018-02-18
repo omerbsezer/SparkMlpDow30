@@ -32,3 +32,14 @@ _**Cite as:**_
 **MLA:**
 
 Sezer, Omer Berat, A. Murat Ozbayoglu, and Erdogan Dogdu. "An Artificial Neural Network-based Stock Trading System Using Technical Analysis and Big Data Framework." Proceedings of the SouthEast Conference. ACM, 2017.
+
+
+What is Multi Layer Perceptron (MLP)? (General Information): https://en.wikipedia.org/wiki/Multilayer_perceptron
+
+What is Relative Strength Index?: https://en.wikipedia.org/wiki/Relative_strength_index
+
+What is MACD?: https://en.wikipedia.org/wiki/MACD
+
+What is William%R?: https://www.investopedia.com/terms/w/williamsr.asp
+
+Apache Spark MLlib: https://spark.apache.org/mllib/
